@@ -1,1 +1,2 @@
 # oop_with_cpp
+OOP (Object Oriented Programming) is very very important topic to learn deeply and clearly. As every modern software industry uses OOP to develop all sorts of software so this is a must learn topic for every programmer. Here OOP basic code samples are uploaded to help you to start learning OOP without fear. The detail discussion of OOP will be here in https://fahimsifnatul.github.io in near future.
